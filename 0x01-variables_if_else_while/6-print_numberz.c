@@ -2,17 +2,18 @@
 
 /**
  * main - Entry point
- * Description: print alphabet in lowercase
+ * Description: Print numbers with putchar
  * Return: 0
  */
 
 int main(void)
 {
-	char al;
+	int num;
 
-	for (al = 'a'; al <= 'z'; al++)
-		putchar(al);
-
+	for(num = '1'; num <10; num++)
+	{
+		putchar(num);
+	}
 	putchar('\n');
 	return (0);
 }
