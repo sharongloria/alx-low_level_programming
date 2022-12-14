@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main -  Entry point
+ * main - Entry point
  * Description: Print alphabet ten times
  * Return: void
  */
