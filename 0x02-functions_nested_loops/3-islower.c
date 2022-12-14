@@ -2,7 +2,7 @@
 
 /**
  * _islower - Entry point
- * Description: check for lowercase character
+ * @c: check for lowercase character
  * Return: 0
  */
 
